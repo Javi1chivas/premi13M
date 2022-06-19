@@ -1,0 +1,71 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="Testador IPTV", Gerado por Testador IPTV(PlayStore)
+https://play.google.com/store/apps/details?id=thalles.org.testadoriptv
+
+#EXTINF:-1 tvg-logo="http://51.222.105.31:8080/images/b768a960b697ac358d3c4c7d21b7a6c8.png" group-title="CINE SD│Latino", CIN SD: HBO Mundi
+http://51.222.105.31:8080/CDFJ0306/7Rkx8bCUFb6w/41298
+
+#EXTINF:-1 tvg-logo="http://51.222.105.31:8080/images/f1538169e6bf8d7c44079af704069795.png" group-title="CINE SD│Latino", CIN SD: HBO XTREME
+http://51.222.105.31:8080/CDFJ0306/7Rkx8bCUFb6w/41300
+
+#EXTINF:-1 tvg-logo="http://51.222.105.31:8080/images/06da33f2103aacd87a8c0ea1f5950231.png" group-title="CINE SD│Latino", CIN SD: Morbido
+http://51.222.105.31:8080/CDFJ0306/7Rkx8bCUFb6w/41301
+
+#EXTINF:-1 tvg-logo="http://51.222.105.31:8080/images/0c2cd7bd8e960dfe417f38338c1dcfaf.png" group-title="CINE SD│Latino", CIN SD: Space
+http://51.222.105.31:8080/CDFJ0306/7Rkx8bCUFb6w/41302
+
+#EXTINF:-1 tvg-logo="http://51.222.105.31:8080/images/5e13b5b330794e2d05928d099d235e0b.png" group-title="CINE SD│Latino", CINE | TNT
+http://51.222.105.31:8080/CDFJ0306/7Rkx8bCUFb6w/41304
+
+#EXTINF:-1 tvg-logo="http://51.222.105.31:8080/images/afc187d5d9aa070833987c9f0624c0f3.png" group-title="CINE SD│Latino", CINE | TNT Series
+http://51.222.105.31:8080/CDFJ0306/7Rkx8bCUFb6w/41306
+
+#EXTINF:-1 tvg-logo="http://51.222.105.31:8080/images/57662d4c7af3fbe37a4c0cdf670242e5.png" group-title="CINE SD│Latino", CIN SD: I SAT
+http://51.222.105.31:8080/CDFJ0306/7Rkx8bCUFb6w/204643
+
+#EXTINF:-1 tvg-logo="http://51.222.105.31:8080/images/41b3f811912abcf91f8f85803f6384f4.png" group-title="CINE SD│Latino", MX | HBO Family
+http://51.222.105.31:8080/CDFJ0306/7Rkx8bCUFb6w/219004
+
+#EXTINF:-1 tvg-logo="http://51.222.105.31:8080/images/4c77b58733a09c26f2d0eb969690785b.png" group-title="CINE SD│Latino", MX | HBO
+http://51.222.105.31:8080/CDFJ0306/7Rkx8bCUFb6w/219005
+
+#EXTINF:-1 tvg-logo="http://51.222.105.31:8080/images/207bb9f1f424b46de2c39aa3907b1c2d.png" group-title="CINE SD│Latino", CIN SD: HBO 2
+http://51.222.105.31:8080/CDFJ0306/7Rkx8bCUFb6w/219006
+
+#EXTINF:-1 tvg-logo="http://51.222.105.31:8080/images/0d52ce103d5251352ff1a06623798c2e.png" group-title="CINE SD│Latino", CIN SD: HBO Signature
+http://51.222.105.31:8080/CDFJ0306/7Rkx8bCUFb6w/219007
+
+#EXTINF:-1 tvg-logo="http://51.222.105.31:8080/images/fe1eb7b7a92b71537d1385bed683de3a.png" group-title="CINE SD│Latino", CIN SD: HBO pop
+http://51.222.105.31:8080/CDFJ0306/7Rkx8bCUFb6w/219008
+
+#EXTINF:-1 tvg-logo="http://51.222.105.31:8080/images/e120ab59f234203d481973a9aee5d784.png" group-title="CINE SD│Latino", CIN SD: AMC
+http://51.222.105.31:8080/CDFJ0306/7Rkx8bCUFb6w/219014
+
+#EXTINF:-1 tvg-logo="http://51.222.105.31:8080/images/06002cb8d281274340e14c230cc0764e.png" group-title="CINE SD│Latino", CIN SD: AZ Cinema
+http://51.222.105.31:8080/CDFJ0306/7Rkx8bCUFb6w/219015
+
+#EXTINF:-1 tvg-logo="http://51.222.105.31:8080/images/de5d81375f54e34d4b98f5517cb0c7f1.png" group-title="CINE SD│Latino", CIN SD: Cine Latino
+http://51.222.105.31:8080/CDFJ0306/7Rkx8bCUFb6w/219017
+
+#EXTINF:-1 tvg-logo="http://51.222.105.31:8080/images/22246fb45fa63098102fac30a4228b13.png" group-title="CINE SD│Latino", CIN SD: Cinemax
+http://51.222.105.31:8080/CDFJ0306/7Rkx8bCUFb6w/219018
+
+#EXTINF:-1 tvg-logo="http://51.222.105.31:8080/images/4618a25b15edfbe3bf386f39b547b9b2.png" group-title="CINE SD│Latino", CIN SD: De Pelicula
+http://51.222.105.31:8080/CDFJ0306/7Rkx8bCUFb6w/219019
+
+#EXTINF:-1 tvg-logo="http://51.222.105.31:8080/images/f26b944b3b3201a6ab43678a022382e3.png" group-title="CINE SD│Latino", CIN SD: De Pelicula Clasico
+http://51.222.105.31:8080/CDFJ0306/7Rkx8bCUFb6w/219020
+
+#EXTINF:-1 tvg-logo="http://51.222.105.31:8080/images/d12380e63e8162da64262d98f3e4902a.png" group-title="CINE SD│Latino", MX | De Pelicula Plus
+http://51.222.105.31:8080/CDFJ0306/7Rkx8bCUFb6w/219021
+
+#EXTINF:-1 tvg-logo="http://51.222.105.31:8080/images/b1db4e302e1c770b816188379738746b.png" group-title="CINE SD│Latino", CIN SD: Golden
+http://51.222.105.31:8080/CDFJ0306/7Rkx8bCUFb6w/219023
+
+#EXTINF:-1 tvg-logo="http://51.222.105.31:8080/images/6ef349656aadc3e80a5be1c33da08a9c.png" group-title="CINE SD│Latino", CIN SD: Golden Edge
+http://51.222.105.31:8080/CDFJ0306/7Rkx8bCUFb6w/219024
+
+#EXTINF:-1 tvg-logo="http://51.222.105.31:8080/images/cfd04d0c36582683fa3a90012a22435a.png" group-title="CINE SD│Latino", CIN SD: Universal Reality
+http://51.222.105.31:8080/CDFJ0306/7Rkx8bCUFb6w/219013
+
